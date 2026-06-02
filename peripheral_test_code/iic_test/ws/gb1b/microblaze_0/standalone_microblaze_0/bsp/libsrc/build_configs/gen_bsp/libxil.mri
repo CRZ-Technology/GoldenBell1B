@@ -1,0 +1,6 @@
+create libxil.a
+addlib D:/sources/2026/GoldenBell1B/iic_test/ws/gb1b/microblaze_0/standalone_microblaze_0/bsp/libsrc/build_configs/gen_bsp/libsrc/uartlite/src/libuartlite.a
+addlib D:/sources/2026/GoldenBell1B/iic_test/ws/gb1b/microblaze_0/standalone_microblaze_0/bsp/libsrc/build_configs/gen_bsp/libsrc/iic/src/libiic.a
+addlib D:/sources/2026/GoldenBell1B/iic_test/ws/gb1b/microblaze_0/standalone_microblaze_0/bsp/libsrc/build_configs/gen_bsp/libsrc/bram/src/libbram.a
+save
+end

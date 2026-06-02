@@ -1,0 +1,27 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Thu May 28 13:41:53 2026
+# Process ID         : 60336
+# Current directory  : D:/sources/2026/GoldenBell1B/iic_test/iic_test.runs/design_1_dlmb_v10_0_synth_1
+# Command line       : vivado.exe -log design_1_dlmb_v10_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_dlmb_v10_0.tcl
+# Log file           : D:/sources/2026/GoldenBell1B/iic_test/iic_test.runs/design_1_dlmb_v10_0_synth_1/design_1_dlmb_v10_0.vds
+# Journal file       : D:/sources/2026/GoldenBell1B/iic_test/iic_test.runs/design_1_dlmb_v10_0_synth_1\vivado.jou
+# Running On         : DESKTOP-JP2R5GF
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz
+# CPU Frequency      : 3408 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 34237 MB
+# Swap memory        : 27917 MB
+# Total Virtual      : 62154 MB
+# Available Virtual  : 33228 MB
+#-----------------------------------------------------------
+source design_1_dlmb_v10_0.tcl -notrace
+create_project: Time (s): cpu = 00:00:20 ; elapsed = 00:00:16 . Memory (MB): peak = 506.918 ; gain = 213.121
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP design_1_dlmb_v10_0, cache-ID = d27cea51452585e2.
+INFO: [Common 17-206] Exiting Vivado at Thu May 28 13:42:20 2026...

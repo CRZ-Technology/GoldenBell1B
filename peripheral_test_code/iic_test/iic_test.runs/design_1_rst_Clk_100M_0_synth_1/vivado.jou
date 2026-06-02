@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Thu May 28 13:39:20 2026
+# Process ID         : 53856
+# Current directory  : D:/sources/2026/GoldenBell1B/iic_test/iic_test.runs/design_1_rst_Clk_100M_0_synth_1
+# Command line       : vivado.exe -log design_1_rst_Clk_100M_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_rst_Clk_100M_0.tcl
+# Log file           : D:/sources/2026/GoldenBell1B/iic_test/iic_test.runs/design_1_rst_Clk_100M_0_synth_1/design_1_rst_Clk_100M_0.vds
+# Journal file       : D:/sources/2026/GoldenBell1B/iic_test/iic_test.runs/design_1_rst_Clk_100M_0_synth_1\vivado.jou
+# Running On         : DESKTOP-JP2R5GF
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz
+# CPU Frequency      : 3408 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 34237 MB
+# Swap memory        : 27917 MB
+# Total Virtual      : 62154 MB
+# Available Virtual  : 40942 MB
+#-----------------------------------------------------------
+source design_1_rst_Clk_100M_0.tcl -notrace

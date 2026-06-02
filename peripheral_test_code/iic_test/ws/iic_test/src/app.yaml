@@ -1,0 +1,4 @@
+domain_path: D:\sources\2026\GoldenBell1B\iic_test\ws\gb1b\export\gb1b\sw\standalone_microblaze_0
+app_src_dir: D:\Xilinx\2025.1\Vitis\data\embeddedsw\lib\sw_apps\empty_application
+template: empty_application
+lang: c
