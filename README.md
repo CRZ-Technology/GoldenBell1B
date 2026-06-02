@@ -13,9 +13,9 @@ Directory
 
 # Features
 
--	Xilinx Spartan-7 XC7S6-FTGB196 FPGA-	
--	FTDI FT2232H USB-JTAG-Serial IC-	
--	SPI program flash (16Mbit)	
+-	Xilinx Spartan-7 XC7S6-FTGB196 FPGA
+-	FTDI FT2232H USB-JTAG-Serial IC
+-	SPI program flash (16Mbit)
 -	14pin JTAG connector
 -	4 digit 7 segment
 -	16 LED indicators
